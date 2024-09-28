@@ -2,3 +2,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=77chenchen&show_icons=true)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=77chenchen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)wangqichen517@gmail.com
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas)](https://github.com/Christmas/github-readme-stats)
