@@ -3,5 +3,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=77chenchen&show_icons=true)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=77chenchen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)wangqichen517@gmail.com
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Achuan-2" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Achuan-2&layout=compact&langs_count=8" />
+<span>  </span>
+</div>
+
 
 
