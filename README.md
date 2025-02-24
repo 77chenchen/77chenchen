@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'+m+77chen++!;A+pku+stduent)](https://git.io/typing-svg)
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=77chenchen&theme=minimal" />
-</div>
+[![77chenchen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=77chenchen)](https://github.com/77chenchen/github-readme-activity-graph)
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=77chenchen" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77chenchen&layout=compact&langs_count=8" />
