@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'+m+77chen++!;A+pku+stduent)](https://git.io/typing-svg)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=77chenchen)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?username=77chenchen)](https://git.io/streak-stats)
 [![77chenchen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=77chenchen&theme=react)](https://github.com/77chenchen/github-readme-activity-graph)
 <div align="center">
 <span>  </span>
