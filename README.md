@@ -49,6 +49,11 @@
 | [**Diabetes Prediction Model**](https://github.com/77chenchen/Diabetes-Pred) | Python, ML | Logistic regression-based diabetes classification model. |
 
 ---
+###  Activity Graph  
+
+[![77chenchen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=77chenchen&theme=github-compact&bg_color=000000&color=FFFFFF&line=777777&point=BBBBBB&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ### Contribution Snake
 <img src="https://raw.githubusercontent.com/77chenchen/77chenchen/output/github-contribution-grid-snake.svg" />
