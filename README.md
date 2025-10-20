@@ -48,9 +48,8 @@
 
 ---
 
-###  Activity Graph
-
-[![77chenchen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=77chenchen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Contribution Snake
+<img src="https://raw.githubusercontent.com/77chenchen/77chenchen/output/github-contribution-grid-snake.svg" />
 
 ---
 
