@@ -56,9 +56,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=84&pause=100000000&color=000000&center=true&vCenter=true&repeat=false&width=700&height=140&lines=%E7%84%A1%E9%97%AE%E8%A5%BF%E6%9D%B1" alt="無问西東" />
+  <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=88&pause=100000000&color=000000&center=true&vCenter=true&repeat=false&width=720&height=150&lines=%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C" alt="无问西东" />
 </p>
-
 
 
 
