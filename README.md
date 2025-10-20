@@ -65,7 +65,7 @@
                font-size: 40px; 
                color:#00FFFF; 
                text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF;">
-    纵有疾风起
+  纵有疾风起
   </span>
 </h2>
 
