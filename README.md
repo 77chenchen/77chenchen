@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Art+Deco&size=36&duration=3000&pause=600&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Qichen](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=36&duration=3000&pause=600&color=00C3FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Qichen+💫;A+NUS+student+majoring+in+Electrical+Engineering)](https://git.io/typing-svg)
 
 ---
 
