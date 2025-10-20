@@ -55,14 +55,9 @@
 
 ---
 
-<h2 align="center">
-  <span style="
-    font-family: 'Zhi Mang Xing', cursive; 
-    font-size: 90px; 
-    color: #111111;
-    text-shadow: 0 0 15px #444444;">
-    纵有疾风起
-  </span>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=72&duration=1&pause=100000000&center=true&vCenter=true&repeat=false&height=120&lines=%E7%BA%B6%E6%9C%89%E7%96%BE%E9%A3%8E%E8%B5%B7" alt="纵有疾风起"/>
+</p>
+
 
 </div>
