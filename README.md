@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=400&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello+there%2C+I'm+Wang+Qichen+%F0%9F%91%8B;A+Peking+University+student+majoring+in+Preventive+Medicine;Transitioning+towards+Computer+Science+and+Open+Source+Innovation;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Art+Deco&size=36&duration=3000&pause=600&color=FFFFFF&background=000000&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+𝔸𝕣𝕥𝕙𝕒𝕝𝕤;A+NUS+student+majoring+in+Electrical+Engineering)](https://git.io/typing-svg)
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=77chenchen&show_icons=true&theme=react&hide_border=true" />
@@ -37,9 +37,9 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| 🧩 Project | 🔧 Tech | 📝 Description |
+|  Project |  Tech |  Description |
 |-------------|--------|----------------|
 | [**ArrayDeque**](https://github.com/77chenchen/ArrayDeque) | Java, CS61B | Implementation of a dynamic array-based deque. |
 | [**Furry_Fixes**](https://github.com/77chenchen/Furry_Fixes) | Python | Recursive diff & autocorrect system for natural text. |
@@ -48,18 +48,25 @@
 
 ---
 
-### 🌈 Activity Graph
+###  Activity Graph
 
 [![77chenchen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=77chenchen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <img src="https://raw.githubusercontent.com/77chenchen/77chenchen/main/assets/github-contribution-grid-snake.svg" alt="snake gif" />
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&weight=700&size=40&pause=1500&color=00CFFF&center=true&vCenter=true&width=600&lines=纵有疾风起%EF%BC%8C.)](https://git.io/typing-svg)
+<h2 align="center">
+  <span style="font-family:'ZCOOL KuaiLe', cursive; 
+               font-size: 40px; 
+               color:#00FFFF; 
+               text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF;">
+    纵有疾风起
+  </span>
+</h2>
 
 </div>
