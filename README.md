@@ -53,18 +53,13 @@
 
 ---
 
-###  Contribution Snake
-
-<img src="https://raw.githubusercontent.com/77chenchen/77chenchen/main/assets/github-contribution-grid-snake.svg" alt="snake gif" />
-
----
-
 <h2 align="center">
-  <span style="font-family:'ZCOOL KuaiLe', cursive; 
-               font-size: 40px; 
-               color:#00FFFF; 
-               text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 30px #00FFFF;">
-  纵有疾风起
+  <span style="
+    font-family: 'Zhi Mang Xing', cursive; 
+    font-size: 90px; 
+    color: #111111;
+    text-shadow: 0 0 15px #444444;">
+    纵有疾风起
   </span>
 </h2>
 
