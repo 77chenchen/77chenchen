@@ -9,7 +9,7 @@
 
 ### About Me
 🎓 Undergraduate @ **NUS**  
-🌐 Currently learning **Robotics**, **Data Structures**, and **Electrical Engineering**  
+🌐 Currently learning **Computer Engineering**  
 📫 Reach me at: **[77chenchen](https://github.com/77chenchen)**  
 
 ---
