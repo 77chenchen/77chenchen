@@ -35,18 +35,11 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77chenchen&layout=compact&langs_count=8&theme=react&hide_border=true" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=77chenchen&theme=react&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=77chenchen&show_icons=true&theme=react)
+
 
 ---
 
-### Featured Projects
-
-|  Project |  Tech |  Description |
-|-------------|--------|----------------|
-| [**ArrayDeque**](https://github.com/77chenchen/ArrayDeque) | Java, CS61B | Implementation of a dynamic array-based deque. |
-| [**Furry_Fixes**](https://github.com/77chenchen/Furry_Fixes) | Python | Recursive diff & autocorrect system for natural text. |
-| [**Arduino Light System**](https://github.com/77chenchen/Arduino-Light-System) | C++, Arduino | Smart LED system with LDR and PIR sensors. |
-| [**Diabetes Prediction Model**](https://github.com/77chenchen/Diabetes_Prediction) | Python, ML | Logistic regression-based diabetes classification model. |
 
 ---
 ###  Activity Graph  
