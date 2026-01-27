@@ -8,9 +8,9 @@
 <div align="center">
 
 ### About Me
-🎓 Undergraduate @ **NUS**  
-🌐 Currently learning **Computer Engineering**  
-📫 Reach me at: **[77chenchen](https://github.com/77chenchen)**  
+ Undergraduate @ **NUS**  
+ Currently learning **Computer Engineering**  
+ Reach me at: **[77chenchen](https://github.com/77chenchen)**  
 
 ---
 
@@ -60,9 +60,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=88&pause=100000000&color=000000&center=true&vCenter=true&repeat=false&width=720&height=150&lines=%E6%97%A0%E9%97%AE%E8%A5%BF%E4%B8%9C" alt="无问西东" />
-</p>
 
 
 
