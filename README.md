@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" />
 </p>
 
 ---
@@ -35,8 +34,6 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77chenchen&layout=compact&langs_count=8&theme=react&hide_border=true" />
 </div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=77chenchen&show_icons=true&theme=react)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=77chenchen&layout=compact)
 
 
 
