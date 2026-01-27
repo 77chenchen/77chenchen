@@ -35,7 +35,9 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77chenchen&layout=compact&langs_count=8&theme=react&hide_border=true" />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=77chenchen&show_icons=true&theme=react)
+![Stats](https://github-readme-stats.vercel.app/api?username=77chenchen&show_icons=true&theme=react)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=77chenchen&layout=compact)
+
 
 
 ---
