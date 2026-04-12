@@ -29,9 +29,11 @@
 
 ###  GitHub Stats
 
+### GitHub Stats
+
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=77chenchen&show_icons=true&theme=react&hide_border=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77chenchen&layout=compact&langs_count=8&theme=react&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=77chenchen&show_icons=true&theme=react&hide_border=true&cache_seconds=86400" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77chenchen&layout=compact&langs_count=8&theme=react&hide_border=true&cache_seconds=86400" />
 </div>
 
 <br>
@@ -40,10 +42,6 @@
   <img width="840" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=77chenchen&theme=github_dark" />
 </div>
 
-
-
-
----
 
 
 ---
