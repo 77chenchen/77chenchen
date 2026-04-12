@@ -34,6 +34,12 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=77chenchen&layout=compact&langs_count=8&theme=react&hide_border=true" />
 </div>
 
+<br>
+
+<div align="center">
+  <img width="840" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=77chenchen&theme=github_dark" />
+</div>
+
 
 
 
