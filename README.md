@@ -30,15 +30,17 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=77chenchen&theme=github_dark" />
-  <img height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=77chenchen&theme=github_dark" />
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=77chenchen&theme=github_dark" />
 </div>
----
-
-### GitHub Platform Status
 
 <div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.githubstatus.com%2Fapi%2Fv2%2Fsummary.json&query=%24.status.description&label=GitHub%20Status&logo=github" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=77chenchen&theme=github_dark" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=77chenchen&theme=github_dark&utcOffset=8" />
+</div>
+
+<div align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=77chenchen&theme=github_dark" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=77chenchen&theme=github_dark" />
 </div>
 
 
