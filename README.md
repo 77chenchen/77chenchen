@@ -34,7 +34,11 @@
   <img height="170px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=77chenchen&theme=github_dark" />
 </div>
 
+### GitHub Platform Status
 
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.githubstatus.com%2Fapi%2Fv2%2Fsummary.json&query=%24.status.description&label=GitHub%20Status&logo=github" />
+</div>
 
 
 ---
