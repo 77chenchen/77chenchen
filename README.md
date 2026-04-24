@@ -1,7 +1,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&duration=3000&pause=600&color=00C3FF&center=true&vCenter=true&width=1500&height=150&lines=Hi+there%2C+I'm+Qichen;A+NUS+student+majoring+in+Electrical+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&duration=3000&pause=600&color=00C3FF&center=true&vCenter=true&width=1500&height=150&lines=Hi%2C+I'm+Qichen;A+NUS+student+majoring+in+Computer+Engineering)](https://git.io/typing-svg)
 
 ---
 
