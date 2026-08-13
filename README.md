@@ -16,6 +16,7 @@
 
 
   <br />
+  ###  Tech Stack
 
   <!-- 技能图标 -->
   <img
@@ -36,18 +37,7 @@
 
 ---
 
-###  Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" />
-</p>
-
----
 
 ### GitHub Stats
 
