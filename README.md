@@ -1,7 +1,29 @@
 <link href="https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kaushan+Script&size=40&duration=3000&pause=600&color=00C3FF&center=true&vCenter=true&width=1500&height=150&lines=Hi%2C+I'm+Qichen;A+NUS+student+majoring+in+Computer+Engineering)](https://git.io/typing-svg)
+<!-- Tech Header - Clean Card -->
+<div align="center">
+
+  <!-- 顶部科技徽章 -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/NUS-Computer%20Engineering-003D7C?style=for-the-badge&logo=academic&logoColor=white" />
+  </p>
+
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&duration=2000&pause=800&color=3B82F6&center=true&vCenter=true&width=500&height=70&lines=Hi+there+!" alt="Hi there !" />
+    </a>
+  </h1>
+
+
+  <br />
+
+  <!-- 技能图标 -->
+  <img
+    src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,git,linux,vscode&theme=dark"
+    alt="Tech Stack"
+  />
+
+</div>
 
 ---
 
