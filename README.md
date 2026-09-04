@@ -17,7 +17,15 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,git,linux,vscode&theme=dark" alt="Python, C++, Java, JavaScript, TypeScript, React, Node.js, Git, Linux, and VS Code" />
+  <strong>Languages</strong>
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,go,swift,html,css&theme=dark" alt="Python, C, C++, Java, JavaScript, TypeScript, Go, Swift, HTML, and CSS" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Verilog-HDL-58A6FF?style=flat-square" alt="Verilog HDL" />
+  <br /><br />
+  <strong>Tools &amp; Frameworks</strong>
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,docker,cmake,bash,git,github,linux,vscode&theme=dark" alt="React, Node.js, Docker, CMake, Bash, Git, GitHub, Linux, and VS Code" />
 </div>
 
 ## GitHub Overview
