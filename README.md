@@ -51,7 +51,7 @@
 </div>
 
 <div align="center">
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=77chenchen&theme=github_dark" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=77chenchen&theme=github-dark-blue&hide_border=true" />
   <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=77chenchen&theme=github_dark" />
 </div>
 
