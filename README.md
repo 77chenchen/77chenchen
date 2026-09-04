@@ -4,10 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Qichen+Wang;Computer+Engineering+%40+NUS;Building%2C+learning%2C+and+exploring" alt="Typing introduction" />
 </a>
 
-<p>
-  Computer Engineering undergraduate at <strong>National University of Singapore</strong>.<br />
-  Interested in software engineering, systems, and turning ideas into useful projects.
-</p>
+
 
 <p>
   <a href="mailto:e1719536@u.nus.edu"><img src="https://img.shields.io/badge/Email-e1719536%40u.nus.edu-1F6FEB?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
