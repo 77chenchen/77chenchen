@@ -59,7 +59,7 @@
 ---
 ###  Activity Graph  
 
-[![77chenchen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=77chenchen&theme=github-compact&bg_color=000000&color=FFFFFF&line=777777&point=BBBBBB&hide_border=true)]([https://github.com/ashutosh00710/github-readme-activity-graph](https://github-readme-activity-graph.vercel.app))
+[![77chenchen's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=77chenchen&theme=github-compact&bg_color=000000&color=FFFFFF&line=777777&point=BBBBBB&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
