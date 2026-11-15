@@ -2,27 +2,38 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"       
-  workflow_dispatch:           
+    - cron: '0 0 * * *'
+  workflow_dispatch:
   push:
-    branches: ["main"]         
+    branches: [main]
+    paths:
+      - '.github/workflows/snake.yml'
+      - 'scripts/style-snake.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-contribution-snake
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      TZ: Asia/Singapore       
+    timeout-minutes: 10
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Generate the contribution calendar and animation
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
-          github_user_name: 77chenchen
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            # dist/snake-custom.svg?color_snake=white&color_dots=#444,#888,#BBB,#EEE
-      - uses: crazy-max/ghaction-github-pages@v4
+          github_user_name: ${{ github.repository_owner }}
+          outputs: ${{ runner.temp }}/snake.svg
+      - name: Style light and dark SVGs
+        run: python3 scripts/style-snake.py "$RUNNER_TEMP/snake.svg" dist
+      - name: Publish the styled SVGs
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
-          target_branch: output   
+          target_branch: output
           build_dir: dist
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
