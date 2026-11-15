@@ -22,13 +22,24 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
-      - name: Generate the contribution calendar and animation
-        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: ${{ runner.temp }}/snake.svg
-      - name: Style light and dark SVGs
-        run: python3 scripts/style-snake.py "$RUNNER_TEMP/snake.svg" dist
+      - name: Fetch the public contribution calendar
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: |
+          gh api graphql -f login="$PROFILE_LOGIN" -f query='
+            query($login: String!) {
+              user(login: $login) {
+                contributionsCollection {
+                  contributionCalendar {
+                    weeks { contributionDays { weekday contributionLevel } }
+                  }
+                }
+              }
+            }
+          ' --jq '.data.user.contributionsCollection.contributionCalendar.weeks' > "$RUNNER_TEMP/calendar.json"
+      - name: Render the contribution snake
+        run: python3 scripts/style-snake.py "$RUNNER_TEMP/calendar.json" dist
       - name: Publish the styled SVGs
         uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4
         with:
