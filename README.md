@@ -55,7 +55,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/77chenchen/77chenchen/refs/heads/output/profile-snake-dark.svg?v=3" />
-    <img width="98%" src="https://raw.githubusercontent.com/77chenchen/77chenchen/refs/heads/output/profile-snake.svg?v=3" alt="A snake that grows as it collects active days from the GitHub contribution calendar" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/77chenchen/77chenchen/refs/heads/output/profile-snake-dark.svg?v=4" />
+    <img width="98%" src="https://raw.githubusercontent.com/77chenchen/77chenchen/refs/heads/output/profile-snake.svg?v=4" alt="A snake grows as it collects GitHub contribution days, then ends the run when it hits its own tail" />
   </picture>
 </div>
